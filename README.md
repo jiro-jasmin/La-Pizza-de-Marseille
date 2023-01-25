@@ -24,7 +24,7 @@ Navigate through the menu of this pizza restaurant and create your own custom pi
 
 ## ⚠️ For actual production mode
 
-This project does not have any relational database, as it aims to display some plain native PHP skills. If you would like to check a full production-ready project with a SQL database, please check [that project](https://hotburgers-berlin.000webhostapp.com/).  
+This project does not have any relational database, as it aims to display some plain native PHP skills. If you would like to check a full production-ready project with a SQL database, please check [that project](https://github.com/jiro-jasmin/Hot-Burgers/).  
 Now, if you wish to use this project for production, please use a relational database to store the user email adresses. This way would be more secure and also easier to manage to actually send newsletter. To send newsletters, you can use a library such as *PHPMailer*.
 
 ## 🙏 Thank you for your visit
