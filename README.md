@@ -8,6 +8,10 @@ Navigate through the menu of this pizza restaurant and create your own custom pi
   
 🚀 **[Click here to access to the online demo](https://pizza-marseille.000webhostapp.com/)** 🚀  
   
+Alternatively, click here to watch a video demo:  
+ 
+[![CLICK HERE FOR VIDEO DEMO](https://img.youtube.com/vi/646WPLIC8dY/0.jpg)](https://youtu.be/646WPLIC8dY)
+  
 ---
   
 ## 🔧 Tools
